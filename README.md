@@ -7,7 +7,10 @@
 Η εργασία δουλεύει στο xampp. Αν το βάλετε σε server πρέπει να κάνετε τις ανάλογες ρυθμίσεις (phpmailer) : 
 Αντικατάσταση του αρχείου php.ini to C:\xampp\php 
 Αντικατάσταση του αρχείου sendmail.ini to C:\xampp\sendmail
+Αντικατάσταση του αρχείου script.js C:\xampp\htdocs\iWeatherCast\Weather\JS
 Τα αρχεία του xampp πρέπει να τοποθετηθούν από την έκδοση 7.4.1 / PHP 7.4.1 και σε όποια άλλη νεότερη.
 Τα αρχεία αυτά σας τα έχω κάνει upload σε commit. 
+
+Το link από το api : https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
 
 
