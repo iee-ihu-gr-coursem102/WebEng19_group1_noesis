@@ -8,7 +8,7 @@ https://users.it.teithe.gr/~ait72019/public.html/WebEng19_group1_noesis/
 
 "iWeatherCast_8-12-2019_v2.pdf" (και περιγραφή "iWeatherCast Description and Methodology"). 
 
-Η εφαρμογής iWeatherCast υλοποιήθηκε και λειτουργεί στο περιβάλλον εφαρμογών XAMPP (έκδοση 7.4.1). 
+Η εφαρμογή iWeatherCast υλοποιήθηκε και λειτουργεί στο περιβάλλον εφαρμογών XAMPP (έκδοση 7.4.1). 
 
 Για την σωστή λειτουργία της, θα πρέπει να γίνουν οι παρακάτω ρυθμίσεις στον server:
 
