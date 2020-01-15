@@ -10,6 +10,6 @@
     Αντικατάσταση του αρχείου sendmail.ini to C:\xampp\sendmail
   Αντικατάσταση του αρχείου script.js C:\xampp\htdocs\iWeatherCast\Weather\JS 
 
-Ο ιστότοπος προέλευσης του μετεωρολογικού api που τελικά χρησιμοποιήθηκε καθώς και οι σχετικές πληροφορίες βρίσκοναι στη διεύθυνση: https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
+Ο ιστότοπος προέλευσης του μετεωρολογικού api που τελικά χρησιμοποιήθηκε καθώς και οι σχετικές πληροφορίες βρίσκονται στη διεύθυνση: https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
 
 
