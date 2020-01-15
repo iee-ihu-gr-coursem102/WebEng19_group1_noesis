@@ -1,16 +1,15 @@
 # Group1_noesis : Βασιλειάδης Παύλος - Καϊμακάμη Άννα - Κωτσιαρή Ασπασία
 
-Η εφαρμογή θα είναι προσβάσιμη στο https://users.it.teithe.gr/~ait72019/public.html/WebEng19_group1_noesis/
+Τα στοιχεία της διαδικτυακής εφαρμογής μας iWeatherCast βρίσκονται στη διεύθυνση: https://users.it.teithe.gr/~ait72019/public.html/WebEng19_group1_noesis/
 
-Το pdf αρχείο με τίτλο "iWeatherCast_8-12-2019_v2" και περιγραφή "iWeatherCast Description and Methodology" περιέχει όλες τις απαραίτητες πληροφορίες σχετικά με την υλοποίηση του project. 
+Οι απαραίτητες πληροφορίες σχετικά με την υλοποίηση του project βρίσκονται στο αρχείο pdf με τίτλο "iWeatherCast_8-12-2019_v2" (και περιγραφή "iWeatherCast Description and Methodology"). 
 
-Η εργασία δουλεύει στο xampp. Αν το βάλετε σε server πρέπει να κάνετε τις ανάλογες ρυθμίσεις (phpmailer) : 
-Αντικατάσταση του αρχείου php.ini to C:\xampp\php 
-Αντικατάσταση του αρχείου sendmail.ini to C:\xampp\sendmail
-Αντικατάσταση του αρχείου script.js C:\xampp\htdocs\iWeatherCast\Weather\JS
-Τα αρχεία του xampp πρέπει να τοποθετηθούν από την έκδοση 7.4.1 / PHP 7.4.1 και σε όποια άλλη νεότερη.
-Τα αρχεία αυτά σας τα έχω κάνει upload σε commit. 
+Η εφαρμογής iWeatherCast υλοποιήθηκε και λειτουργεί στο περιβάλλον εφαρμογών XAMPP (έκδοση 7.4.1). Για την σωστή λειτουργία του, θα πρέπει στον server να γίνουν οι παρακάτω ρυθμίσεις:
+  Όσον αφορά τον phpmailer: 
+    Αντικατάσταση του αρχείου php.ini to C:\xampp\php 
+    Αντικατάσταση του αρχείου sendmail.ini to C:\xampp\sendmail
+  Αντικατάσταση του αρχείου script.js C:\xampp\htdocs\iWeatherCast\Weather\JS 
 
-Το link από το api : https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
+Ο ιστότοπος προέλευσης του μετεωρολογικού api που τελικά χρησιμοποιήθηκε καθώς και οι σχετικές πληροφορίες βρίσκοναι στη διεύθυνση: https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
 
 
