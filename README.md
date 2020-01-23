@@ -2,7 +2,7 @@
 
 Τα στοιχεία της διαδικτυακής εφαρμογής μας iWeatherCast βρίσκονται στη διεύθυνση: 
 
-https://users.it.teithe.gr/~ait72019/public.html/WebEng19_group1_noesis/
+https://nireas.it.teithe.gr/webeng1/iWeatherCast/
 
 Οι απαραίτητες πληροφορίες σχετικά με την υλοποίηση του project βρίσκονται στο αρχείο:
 
