@@ -20,4 +20,10 @@ https://nireas.it.teithe.gr/webeng1/iWeatherCast/
 
 https://openweathermap.org/?fbclid=IwAR0e5cfYGoOCMD1pUwKkCCQ8PWjWqxKM5LC1yY9uodeJAHSK-uI119TR-OI
 
+To path του φακέλου addFavourites είναι /var/www/html/webeng1/iWeatherCast/Weather/addFavourites
+To path του φακέλου resetpassword είναι /var/www/html/webeng1/iWeatherCast/resetpassword
+
+
+
+
 
